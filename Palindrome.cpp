@@ -117,6 +117,7 @@ string x;
 	else
 	{
 		cout<<"\n This is not a palindrome"<<endl;
+		cout<<"Hello world";
 	}
 	
 	return 0;
