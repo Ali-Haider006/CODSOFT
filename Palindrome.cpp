@@ -112,8 +112,7 @@ string x;
 	}
 	if (temp)
 	{
-		cout<<"\n Yes, it is a Palindrome"<<endl;
-		
+		cout<<"\n Palindrome"<<endl;
 	}
 	else
 	{
