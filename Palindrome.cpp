@@ -118,6 +118,7 @@ string x;
 	{
 		cout<<"\n This is not a palindrome"<<endl;
 		cout<<"Hello world";
+		cout<<"come on buddy";
 	}
 	
 	return 0;
